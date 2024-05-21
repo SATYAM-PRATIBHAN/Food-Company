@@ -36,7 +36,7 @@ To get started with any of our projects, follow these steps:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd food-company/project-name
+    cd food-company/index.htmml
     ```
 ## Contributing
 
